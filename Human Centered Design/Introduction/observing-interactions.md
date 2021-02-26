@@ -2,7 +2,7 @@
 
 ## **Observing Interactions** Assignment
 
-##### In this assignment, you will practice paying attention to everyday interactions, design flaws, and usability cues. To do so you will observe and document three people using an everyday thing. This could be something digital, physical, or a combination of the two. Printers, TV remotes, maps, appliances, and parking meters are all great examples of an everyday thing. Pay close attention to how people interact with it. Keep an eye out for any problems they have. Are there any common difficulties? Do they make the same mistake over and over again? Another great thing to look out for are cues that previous users have left. These cues about usability usually expose flaws in the design. Taped over buttons on a remote, post-it notes, worn out buttons or surfaces in an elevator are all examples that indicate missing or misleading functionality.
+In this assignment, you will practice paying attention to everyday interactions, design flaws, and usability cues. To do so you will observe and document three people using an everyday thing. This could be something digital, physical, or a combination of the two. Printers, TV remotes, maps, appliances, and parking meters are all great examples of an everyday thing. Pay close attention to how people interact with it. Keep an eye out for any problems they have. Are there any common difficulties? Do they make the same mistake over and over again? Another great thing to look out for are cues that previous users have left. These cues about usability usually expose flaws in the design. Taped over buttons on a remote, post-it notes, worn out buttons or surfaces in an elevator are all examples that indicate missing or misleading functionality.
 
 ### Review Criteria
 
