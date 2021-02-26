@@ -31,7 +31,7 @@ Submissions will be graded on the following criteria. Each bullet is worth 1 poi
 
 #### Submit a picture of a person interacting with the everyday thing.
 
-> <kbd>![Picture of a person interacting using the Apple TV Remote](https://coursera-assessments.s3.amazonaws.com/assessments/1614308550789/85e590f1-4074-46c5-a35b-c508711f5add/Where-Cards-Fall-Apple-TV-Apple-Arcade.jpg)</kbd>
+> ![Picture of a person interacting using the Apple TV Remote](https://coursera-assessments.s3.amazonaws.com/assessments/1614308550789/85e590f1-4074-46c5-a35b-c508711f5add/Where-Cards-Fall-Apple-TV-Apple-Arcade.jpg)
 >
 > The above picture shows a person using the Apple TV remote to play an Apple Arcade Casual game.
 
@@ -46,6 +46,8 @@ Submissions will be graded on the following criteria. Each bullet is worth 1 poi
 #### Provide a description of any usability cues left behind by previous users.
 
 > Some of the usability cues I observed were:   
+>
+> ![Usability Problems](https://github.com/arvindcheenu/interaction-design-notes/blob/main/images/usability-problems.png)
 >
 > * The father's way of using the remote can be mapped to how an expert might use the product. If such a person feels difficulty in using it for gaming, it only means that the **ergonomics of the Apple TV remote** is unsuitable for playing most non-casual games on it and thus **needs some changes**.  
 > * The mother's way of using the remote suggests **changing the "menu" button's label** **to something more** **universal** such as "**BACK**" or a corresponding icon.
