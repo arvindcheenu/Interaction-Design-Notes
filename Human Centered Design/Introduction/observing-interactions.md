@@ -18,7 +18,7 @@ Submissions will be graded on the following criteria. Each bullet is worth 1 poi
 
 ### My Submission
 ## **Apple TV Smart Remote**
-
+![Usability Problems](https://github.com/arvindcheenu/interaction-design-notes/blob/main/images/usability-problems.png)
 #### Provide a short description of the everyday thing you observed.
 
 > **The Apple TV Remote puts one in complete control of their Apple TV.** One can use your finger on the Touch surface to navigate Apple TV quickly and easily. Just *swipe* *left, right, up or down* or use the buttons provided for common operations. Apple TV can connect to one remote at a time, so if one wants to play multiplayer games, they will need an iOS device or controller.
@@ -46,8 +46,6 @@ Submissions will be graded on the following criteria. Each bullet is worth 1 poi
 #### Provide a description of any usability cues left behind by previous users.
 
 > Some of the usability cues I observed were:   
->
-> ![Usability Problems](https://github.com/arvindcheenu/interaction-design-notes/blob/main/images/usability-problems.png)
 >
 > * The father's way of using the remote can be mapped to how an expert might use the product. If such a person feels difficulty in using it for gaming, it only means that the **ergonomics of the Apple TV remote** is unsuitable for playing most non-casual games on it and thus **needs some changes**.  
 > * The mother's way of using the remote suggests **changing the "menu" button's label** **to something more** **universal** such as "**BACK**" or a corresponding icon.
