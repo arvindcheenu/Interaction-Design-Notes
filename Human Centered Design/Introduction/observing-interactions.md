@@ -16,7 +16,8 @@ Submissions will be graded on the following criteria. Each bullet is worth 1 poi
 
  **This assignment is worth a total of 5 points.**  
 
-### My Submission: **Apple TV Smart Remote**
+### My Submission
+## **Apple TV Smart Remote**
 
 #### Provide a short description of the everyday thing you observed.
 
