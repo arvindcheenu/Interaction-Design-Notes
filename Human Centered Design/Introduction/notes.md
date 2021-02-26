@@ -81,7 +81,7 @@ At each stage in your prototyping process you've got a question. And then from t
 
 ## Sketch Notes on Evaluating Design and the Birth of HCI
 
-![Evaluating Design and Birth of HCI](/Users/arvindcheenu/Downloads/Evaluating Design and Birth of HCI.png)
+![Evaluating Design and Birth of HCI](https://github.com/arvindcheenu/interaction-design-notes/blob/main/images/Evaluating%20Design%20and%20Birth%20of%20HCI.png)
 
 ## On the Methods of Evaluation
 
