@@ -81,9 +81,13 @@ At each stage in your prototyping process you've got a question. And then from t
 
 ## Sketch Notes on Evaluating Design and the Birth of HCI
 
+> 🙏 With Courtesy from Anna Iurchenko [@the next mobile](https://sketchit.co) (Check out her website! It is gold!)
+
 ![Evaluating Design and Birth of HCI](https://github.com/arvindcheenu/interaction-design-notes/blob/main/images/Evaluating%20Design%20and%20Birth%20of%20HCI.png)
 
 ## On the Methods of Evaluation
+
+> 🙏 The original table is courtesy of **Jim McLane**, a course alumni senior. I've made slight changes (as noticed by instructor **Scott Klemmer**) and some additions to it (such as filling in the empty cells with my extrapolations).
 
 * **Evaluation falls between science and art.**
 * **Use Patterns** can be **context-dependent** and evolve over time.
@@ -102,4 +106,6 @@ At each stage in your prototyping process you've got a question. And then from t
 > The best way to predict the future is **to invent it.**
 >
 > *-- Alan Kay*
+
+
 
