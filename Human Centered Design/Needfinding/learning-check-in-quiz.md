@@ -2,9 +2,9 @@
 
 ## **Learning Check-in** Quiz
 
-#### Question 1
+### Question 1
 
-##### Please tell us how well you have understood the content so far.
+#### Please tell us how well you have understood the content so far.
 
 - [ ] I am just starting to learn this. I don't understand this yet.
 
@@ -14,9 +14,9 @@
 
 - [ ] I know this well enough to teach someone else.
 
-#### Question 2
+### Question 2
 
-##### Which of the following is an example of the need finding strategy in action? <u>Select all that apply</u>
+#### Which of the following is an example of the need finding strategy in action? <u>Select all that apply</u>
 
 - [x] Watch people to do their daily tasks to figure out what they value
 
@@ -26,9 +26,9 @@
 
 - [x] Meet people at some regular interval and have them write down a key piece of info at that time
 
-#### Question 3
+### Question 3
 
-##### Which of the following is true about interviews?
+#### Which of the following is true about interviews?
 
 - [x] “What was your freshman experience like?” is a good question to ask 
 
@@ -38,9 +38,9 @@
 
 - [ ] It isn’t a good idea to interview people who wouldn’t use your product 
 
-#### Question 4
+### Question 4
 
-##### What is a persona?
+#### What is a persona?
 
 - [x] A model or an example user that has a full backstory which helps the designer empathize
 
