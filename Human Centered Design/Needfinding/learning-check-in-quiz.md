@@ -2,19 +2,19 @@
 
 ## **Learning Check-in** Quiz
 
-Question 1
+##### Question 1
 
 #### Please tell us how well you have understood the content so far.
 
-⚪  I am just starting to learn this. I don't understand this yet.
+- [ ] I am just starting to learn this. I don't understand this yet.
 
-⚪  I am beginning to understand this but I still need some help.
+- [ ] I am beginning to understand this but I still need some help.
 
-🔘  I can understand this and I can do this on my own.
+- [x] I can understand this and I can do this on my own.
 
-⚪  I know this well enough to teach someone else.
+- [ ] I know this well enough to teach someone else.
 
-Question 2
+##### Question 2
 
 #### Which of the following is an example of the need finding strategy in action? <u>Select all that apply</u>
 
@@ -26,7 +26,7 @@ Question 2
 
 - [x] Meet people at some regular interval and have them write down a key piece of info at that time
 
-Question 3
+##### Question 3
 
 #### Which of the following is true about interviews?
 
@@ -38,7 +38,7 @@ Question 3
 
 - [ ] It isn’t a good idea to interview people who wouldn’t use your product 
 
-Question 4
+##### Question 4
 
 #### What is a persona?
 
