@@ -122,5 +122,6 @@ Whoo.. I've been asking you quite a lot of questions. Is there anything you woul
 
 Thanks for your time!
 
-
+#### Short Reflection
+> I​ was a little tensed when it came to conducting an interview (It is pretty evident in the audio). Thankfully, the cooperative participant helped me ease into the mood. I realised that as an interviewer, one has to listen and have trust in your interviewee to have a meaningful conversation. Moreover, I found that interviewees when faced with open ended questions are prone to have stream of consciousness thoughts which, though ultimately helpful, might mess up the sequence of questions planned in the interview guide. I realised that the interview guide was just that - a guide. 
 
