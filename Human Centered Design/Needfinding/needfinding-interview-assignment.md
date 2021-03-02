@@ -52,7 +52,7 @@ This assignment should take 3-4 hours. If you have mobility limitations, perform
 
 ## Streetward Conversations on Transportation
 
-[<img src="/Users/arvindcheenu/Github/interaction-design-notes/images/transport-audiolink.png" alt="transport-audiolink" style="zoom:80%;" />](https://soundcloud.com/arvindcheenu/streetward-conversations-on-transportation)
+[![](https://github.com/arvindcheenu/interaction-design-notes/blob/main/images/transport-audiolink.png?raw=true)](https://soundcloud.com/arvindcheenu/streetward-conversations-on-transportation)
 
 #### Script Setup
 
