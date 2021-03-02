@@ -57,7 +57,7 @@ This assignment should take 3-4 hours. If you have mobility limitations, perform
 #### Script Setup
 
 | **Participant** (nickname) | Cheenu                                                       |
-| --------------------------: | ------------------------------------------------------------ |
+| --------------------------: | :------------------------------------------------------------ |
 |               **Date-Time** | March 2, 2021, 6:00 pm                                       |
 |                **Location** | At his **home**, from his **road-facing garden**             |
 |     **Reason for Location** | A pleasant atmosphere with sufficient visual cues would help maintain smooth conversations and elicit authentic responses. |
