@@ -66,15 +66,15 @@ This assignment should take 3-4 hours. If you have mobility limitations, perform
 
 #### Intro Script (2 min)
 
-Thank you for participating!
-
-I'll not be evaluating you in any way, but learning from you about how you transit to places, what works, and doesn't work for you. With this, I hope to glean on ways in which the transportation experience can be improved for people like you. There are no right or wrong answers to any of the questions I'll be asking in this study. I'm simply interested in understanding your choices for different occasions. I will conduct this study mostly as a light discussion on various scenarios and ask questions to better understand what you would do in such circumstances. It would be best if you could give a running commentary of what's going on in your mind. You can talk about things you like or don't like about transportation. Feel free to say anything that comes to your mind.
-
-I will record an audio clip of you so that I can go back and review things later and make sure we get everything right. Your name won't be used in connection with the recordings or the results. The audio files will only be used for peer-review and the spoken things you don't want to be shared will be censored at your behest before being opened to the public.
-
-How does all that sound to you? Do you have any things to clarify at this point?
-
-*[Have person sign NDA & turn cell phone off]*
+> Thank you for participating!
+> 
+> I'll not be evaluating you in any way, but learning from you about how you transit to places, what works, and doesn't work for you. With this, I hope to glean on ways in which the transportation experience can be improved for people like you. There are no right or wrong answers to any of the questions I'll be asking in this study. I'm simply interested in understanding your choices for different occasions. I will conduct this study mostly as a light discussion on various scenarios and ask questions to better understand what you would do in such circumstances. It would be best if you could give a running commentary of what's going on in your mind. You can talk about things you like or don't like about transportation. Feel free to say anything that comes to your mind.
+> 
+> I will record an audio clip of you so that I can go back and review things later and make sure we get everything right. Your name won't be used in connection with the recordings or the results. The audio files will only be used for peer-review and the spoken things you don't want to be shared will be censored at your behest before being opened to the public.
+> 
+> How does all that sound to you? Do you have any things to clarify at this point?
+> 
+> *[Have person sign NDA & turn cell phone off]*
 
 #### Basic Information from Observation (1 - 2 min)
 
