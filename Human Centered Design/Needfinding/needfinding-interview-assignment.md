@@ -52,8 +52,6 @@ This assignment should take 3-4 hours. If you have mobility limitations, perform
 
 ## Streetward Conversations on Transportation
 
-[![](https://github.com/arvindcheenu/interaction-design-notes/blob/main/images/transport-audiolink.png?raw=true)](https://soundcloud.com/arvindcheenu/streetward-conversations-on-transportation)
-
 #### Script Setup
 
 | **Participant** (nickname) | Cheenu                                                       |
@@ -116,12 +114,15 @@ This assignment should take 3-4 hours. If you have mobility limitations, perform
 3. Musk says "Hyperloop is the future". What's your say on it?
 4. Your ideal solution?
 
-Whoo.. I've been asking you quite a lot of questions. Is there anything you would want to ask me?
+>  Whoo.. I've been asking you quite a lot of questions. Is there anything you would want to ask me?
+>
+>  *[Hand over the compensation envelope]*
+>
+>  Thanks for your time!
 
-*[Hand over the compensation envelope]*
+#### Short Reflection with Link to Audio
 
-Thanks for your time!
+> [<img align="left" src="https://github.com/arvindcheenu/interaction-design-notes/blob/main/images/transport-albumart.png?raw=true" style="zoom: 30%"/>](https://soundcloud.com/arvindcheenu/streetward-conversations-on-transportation)
 
-#### Short Reflection
 > I​ was a little tensed when it came to conducting an interview (It is pretty evident in the audio). Thankfully, the cooperative participant helped me ease into the mood. I realised that as an interviewer, one has to listen and have trust in your interviewee to have a meaningful conversation. Moreover, I found that interviewees when faced with open ended questions are prone to have stream of consciousness thoughts which, though ultimately helpful, might mess up the sequence of questions planned in the interview guide. I realised that the interview guide was just that - a guide. 
 
