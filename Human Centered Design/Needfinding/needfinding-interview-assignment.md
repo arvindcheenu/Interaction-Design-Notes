@@ -76,44 +76,44 @@ This assignment should take 3-4 hours. If you have mobility limitations, perform
 
 #### Basic Information from Observation (1 - 2 min)
 
-1. How many personal vehicles at the shed?
-   1. How many two wheelers?
-   2. How many four wheelers?
-2. Maintenance of the vehicles
-3. Brand of the vehicles
-4. Check for existence of a driver / chaffeur
-5. (*Optional*) Recency of vehicles (by the alphabetic code from their number plate registration)
+> 1. How many personal vehicles at the shed?
+>    1. How many two wheelers?
+>    2. How many four wheelers?
+> 2. Maintenance of the vehicles
+> 3. Brand of the vehicles
+> 4. Check for existence of a driver / chaffeur
+> 5. (*Optional*) Recency of vehicles (by the alphabetic code from their number plate registration)
 
 #### Overview + Main Interview Questions (30 - 50 min)
 
-1. For the record, could you share with me a little bit about yourself -what you do, your hobbies etc.?
-2. What does transportation mean to you and your goals?
-3. (Follow up based on response) If I'm understanding it correctly...
-4. What is your most used means of transport? 
-5. For what purpose or goal did you travel the highest this past month? 
-6. *(If private transport)* What is your rationale behind using private transport?
-7. *(If public transport)* What is your rationale behind using public transport?
-8. What irks you the most about using public transport?
-9. What irks you the most about using private transport?
-10. What's the average distance you've covered in it this past week?
-11. When was the last time you've drove your car? Was it long distance?
-12. Is this your first car? If not, how many cars have you changed up till now?
-13. (Follow up if changed a lot of cars) How does it fit in an economical perspective? Are all the cars first-hand?
-14. (Follow up) What is the first thing you look for in a car?
-15. Do you personally drive the entire stretch of such trips? If not, how do you proceed?
-16. Tell me about the longest trip you've personally driven in recent memory.
-17. What are your thoughts on ride sharing? 
-18. What mode of transport do you feel is the most cost efficient, in your opinion?
-19. Can you tell me about some unforgettable experiences you've faced during one of your travels?
-20. (Follow up) How did it change you?
+> 1. For the record, could you share with me a little bit about yourself -what you do, your hobbies etc.?
+> 2. What does transportation mean to you and your goals?
+> 3. (Follow up based on response) If I'm understanding it correctly...
+> 4. What is your most used means of transport? 
+> 5. For what purpose or goal did you travel the highest this past month? 
+> 6. *(If private transport)* What is your rationale behind using private transport?
+> 7. *(If public transport)* What is your rationale behind using public transport?
+> 8. What irks you the most about using public transport?
+> 9. What irks you the most about using private transport?
+> 10. What's the average distance you've covered in it this past week?
+> 11. When was the last time you've drove your car? Was it long distance?
+> 12. Is this your first car? If not, how many cars have you changed up till now?
+> 13. (Follow up if changed a lot of cars) How does it fit in an economical perspective? Are all the cars first-hand?
+> 14. (Follow up) What is the first thing you look for in a car?
+> 15. Do you personally drive the entire stretch of such trips? If not, how do you proceed?
+> 16. Tell me about the longest trip you've personally driven in recent memory.
+> 17. What are your thoughts on ride sharing? 
+> 18. What mode of transport do you feel is the most cost efficient, in your opinion?
+> 19. Can you tell me about some unforgettable experiences you've faced during one of your travels?
+> 20. (Follow up) How did it change you?
 
 #### In Closing (6 - 8 min)
 
-1. If you had the power and authority to change and enforce transportation laws at the national level, Based on your experience, what would you change and how would you go about bringing this change? 
-2. Having been buying cars for a while, how will you go about it now?
-3. Musk says "Hyperloop is the future". What's your say on it?
-4. Your ideal solution?
-
+> 1. If you had the power and authority to change and enforce transportation laws at the national level, Based on your experience, what would you change and how would you go about bringing this change? 
+> 2. Having been buying cars for a while, how will you go about it now?
+> 3. Musk says "Hyperloop is the future". What's your say on it?
+> 4. Your ideal solution?
+> 
 >  Whoo.. I've been asking you quite a lot of questions. Is there anything you would want to ask me?
 >
 >  *[Hand over the compensation envelope]*
