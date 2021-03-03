@@ -111,5 +111,55 @@ Walmart asked people in focus groups **whether they would like the isles to be l
 >
 > 📚 Diana Forsythe, *It’s just a matter of common sense*
 
-For topics not mentioned in these notes, please refer to the **sketch notes** for review.
+## Other Needfinding Strategies
 
+The following strategies are used when in need to observe **longitudinal or sporadic behaviour**.
+
+#### Diary Studies
+
+👍 **Samples more data**, and thus **more usable results** than **direct observation**.
+
+👎 Any time you’re changing people’s behaviour, like asking them to record into a diary, **they’ll do it for a while, and then it’s easy to fall off the wagon and forget**.
+
+#### Experience Sampling
+
+👍 The idea behind experience sampling is to **“beep”** people **at some regular interval**, and have them write down a key piece of information at that time.
+
+👎 Biased toward highly **conscientious** individuals, and repeatedly reporting one's moods **might itself influence feelings.**
+
+#### Extracting Insights on User Needs
+
+* From **Lead Users**
+
+  > 💡 **All Design** is **Redesign**.
+
+  * Come up with **clever** solutions and **valuable design ideas**.
+  * Its a Designer's duty to **transform individual solutions to general ones**.
+
+* From **Extreme Users**
+
+  * Can be extreme in **any direction** eg. Technophiles and Technophobes
+  * May not be the actual users.
+
+* From **Non Users** 
+
+  * Designers can get to learn their **inhibitions**.
+
+* From **Target Users**
+
+  * Those for whom a product or idea is **meant for**.
+
+#### Personas
+
+* **Abstract users** who represent what you’ve found when you went out and looked at real users.
+* Includes **demographic information**, **motivations**, **beliefs**, **intentions**, **behaviours** etc.
+
+> 💡 A Persona should **feel like a living, breathing, human being**.
+
+* Helps build **empathy** for the users.
+
+* Can **reveal new insights**.
+
+  
+
+> 💡 For notes on some topics that are not elaborated here, please refer to the **sketch notes**.
