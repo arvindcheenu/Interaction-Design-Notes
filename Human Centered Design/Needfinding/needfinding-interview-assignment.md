@@ -63,7 +63,6 @@ This assignment should take 3-4 hours. If you have mobility limitations, perform
 |              **Time taken** | ~**60** minutes                                              |
 
 #### Intro Script (2 min)
-
 > Thank you for participating!
 > 
 > I'll not be evaluating you in any way, but learning from you about how you transit to places, what works, and doesn't work for you. With this, I hope to glean on ways in which the transportation experience can be improved for people like you. There are no right or wrong answers to any of the questions I'll be asking in this study. I'm simply interested in understanding your choices for different occasions. I will conduct this study mostly as a light discussion on various scenarios and ask questions to better understand what you would do in such circumstances. It would be best if you could give a running commentary of what's going on in your mind. You can talk about things you like or don't like about transportation. Feel free to say anything that comes to your mind.
@@ -75,7 +74,6 @@ This assignment should take 3-4 hours. If you have mobility limitations, perform
 > *[Have person sign NDA & turn cell phone off]*
 
 #### Basic Information from Observation (1 - 2 min)
-
 > 1. How many personal vehicles at the shed?
 >    1. How many two wheelers?
 >    2. How many four wheelers?
@@ -85,7 +83,6 @@ This assignment should take 3-4 hours. If you have mobility limitations, perform
 > 5. (*Optional*) Recency of vehicles (by the alphabetic code from their number plate registration)
 
 #### Overview + Main Interview Questions (30 - 50 min)
-
 > 1. For the record, could you share with me a little bit about yourself -what you do, your hobbies etc.?
 > 2. What does transportation mean to you and your goals?
 > 3. (Follow up based on response) If I'm understanding it correctly...
@@ -108,7 +105,6 @@ This assignment should take 3-4 hours. If you have mobility limitations, perform
 > 20. (Follow up) How did it change you?
 
 #### In Closing (6 - 8 min)
-
 > 1. If you had the power and authority to change and enforce transportation laws at the national level, Based on your experience, what would you change and how would you go about bringing this change? 
 > 2. Having been buying cars for a while, how will you go about it now?
 > 3. Musk says "Hyperloop is the future". What's your say on it?
@@ -122,5 +118,5 @@ This assignment should take 3-4 hours. If you have mobility limitations, perform
 
 #### Short Reflection with Link to Audio
 
-> [<img align="left" src="https://github.com/arvindcheenu/interaction-design-notes/blob/main/images/transport-albumart.png?raw=true" width="30%"/>](https://soundcloud.com/arvindcheenu/streetward-conversations-on-transportation) I​ was a little tensed when it came to conducting an interview (It is pretty evident in the audio). Thankfully, the cooperative participant helped me ease into the mood. I realised that as an interviewer, one has to listen and have trust in your interviewee to have a meaningful conversation. Moreover, I found that interviewees when faced with open ended questions are prone to have stream of consciousness thoughts which, though ultimately helpful, might mess up the sequence of questions planned in the interview guide. I realised that the interview guide was just that - a guide. 
+> [<img align="left" src="https://github.com/arvindcheenu/interaction-design-notes/blob/main/images/transport-albumart.png?raw=true" width="24%" margin-top="-5px"/>](https://soundcloud.com/arvindcheenu/streetward-conversations-on-transportation) I​ was a little tensed when it came to conducting an interview (It is pretty evident in the audio). Thankfully, the cooperative participant helped me ease into the mood. I realised that as an interviewer, one has to listen and have trust in your interviewee to have a meaningful conversation. Moreover, I found that interviewees when faced with open ended questions are prone to have stream of consciousness thoughts which, though ultimately helpful, might mess up the sequence of questions planned in the interview guide. I realised that the interview guide was just that - a guide. 
 
