@@ -23,7 +23,7 @@ Referred to by **Ms. Geneive Bell** as **Deep Hanging Out** - By spending time w
 
 #### Apprentice Yourself
 
-<img align="left" src="https://github.com/arvindcheenu/interaction-design-notes/blob/main/images/Work-practice-methodology.png?raw=true" width="73%">
+<img align="center" src="https://github.com/arvindcheenu/interaction-design-notes/blob/main/images/Work-practice-methodology.png?raw=true" width="60%">
 
 > 💡 Seating Next to an expert, you can **learn a lot**!
 
