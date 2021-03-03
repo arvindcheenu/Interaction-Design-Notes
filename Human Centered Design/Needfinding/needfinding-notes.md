@@ -128,7 +128,6 @@ The following strategies are used when in need to observe **longitudinal or spor
 👎 Biased toward highly **conscientious** individuals, and repeatedly reporting one's moods **might itself influence feelings.**
 
 #### Extracting Insights on User Needs
-<img src="https://user-images.githubusercontent.com/13925213/109783054-93ce2580-7c2f-11eb-8fe1-f81384f37320.png" width="60%">
 
 * From **Lead Users**
 
