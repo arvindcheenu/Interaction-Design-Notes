@@ -15,7 +15,7 @@ Observing people can also help you build empathy and think from their point of v
 In 1914, **Bronislaw Malinowski** traveled to the Trobriand Islands in Papua New Guinea. While he's there, World War I breaks out, and he has two options. He can either stay on the islands or he faces internment. He was an Austrian citizen. I think you can guess which option he picked. During this period, he developed the practices of participant observation which remain a hallmark ethnographic research to this day.
 
 > ✌️Fish don't realize that they live in water.
-> But as an anthropologist, if you swim with fish, it'll be really apparent to you.
+> But as an **anthropologist**, if you swim with fish, **it'll be really apparent to you**.
 >
 > ~ *based on an old quote*
 
@@ -23,7 +23,7 @@ Referred to by **Ms. Geneive Bell** as **Deep Hanging Out** - By spending time w
 
 #### Apprentice Yourself
 
-<img align="left" src="https://github.com/arvindcheenu/interaction-design-notes/blob/main/images/transport-albumart.png?raw=true">
+<img align="left" src="https://github.com/arvindcheenu/interaction-design-notes/blob/main/images/Work-practice-methodology.png?raw=true" width="73%">
 
 > 💡 Seating Next to an expert, you can **learn a lot**!
 
@@ -62,13 +62,54 @@ Walmart asked people in focus groups **whether they would like the isles to be l
 
 #### Choosing Participants
 
-* Representative of Target Users
-* Current Users of a Similar System
-* Non-Users
+* **Representative of Target Users**
+* **Current Users of a Similar System** if you're creating a better something.
+* **Non-Users** to broaden the set of people that can do a task and learn about their inhibitions from doing it.
 
+#### Recruiting participants
+
+* **Get a Diverse Set of Stakeholders**
+
+  > 💡 Use your **family**, **friends**, **relatives** and **social connections** to **broaden the field of search** for participants. 
+
+* **Use Incentives and Motivation**
+
+  > 💡 The amount that you’ll need to pay people **depends on what they believe is going to be used for.**
+
+  * Use **ample compensation** if your survey is for a **for-profit** organisation.
+  * However, it is possible for a **Non-profit** or a **Skunkworks** **Project** to elicit people to participate in surveys for **free**.
+
+* **Approximating is better than nothing** 
+
+  > 🗜️ For example, Interviewing **computer science students** if the target users were **software engineers**.
+
+#### Interviewing the Right Way
+
+> 💡A **good** interview **always** begins with **open ended questions.**
+
+> ✌️ If I asked people **what they wanted in the age of the horse** and buggy, what they’d say **they want is a faster horse.**
+>
+> ~ *Henry Ford*, Founder of Ford
+
+| 👍 Good Questions...                                          | 👎 Bad Questions...                                           |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ...are **open-ended** questions with a **good degree of silence** for the participants to collect their thoughts. | ...are **leading** and **binary** questions that **coerce** the participants to answer in a particular fashion. |
+| ...ask users about **what they know they need**              | ...ask users about **what they think they need**             |
+| ...ask questions on **frequency**, **likes** and **dislikes** on a **concrete, comparative or absolute scale** eg. **recency** | ...ask questions on **frequency**, **likes** and **dislikes** **without any constraints** |
+
+> **✌️Ask... Listen... Everyone has a story to tell... start from the middle**
+>
+> ~ *Malcolm Gladwell*
+
+> ##### Further Reading
+>
+> 📚 Malcolm Gladwell, *What the Dog Saw*
+>
 > 📚 Steve Portigal, *Interviewing Users*
 >
 > 📚 Blomberg & Burrell, *An Ethnographic Approach to Design*
 >
 > 📚 Diana Forsythe, *It’s just a matter of common sense*
+
+For topics not mentioned in these notes, please refer to the **sketch notes** for review.
 
