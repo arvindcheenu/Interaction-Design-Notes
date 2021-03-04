@@ -1,4 +1,4 @@
-# Storyboarding Assignment Notes
+# Storyboarding Assignment Planning Notes
 
 ## What a typical Storyboard answers?
 
