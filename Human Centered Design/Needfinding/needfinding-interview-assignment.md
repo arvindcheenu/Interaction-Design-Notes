@@ -129,7 +129,7 @@ This assignment should take 3-4 hours. If you have mobility limitations, perform
 
 **From your point of view, which of the things the learner says they will do differently next time do you think is most valuable/important?** 
 
-| ⭐ Reviewers | 💬 Comments |
+| ⭐ Reviewer | 💬 Comments |
 | :----------------- | :----------------------------------------------------------- |
 | **Maggie Dorfman** | being a better active listener (which i also struggled with) |
 | **Yige Song**      | N/A                                                          |
@@ -139,7 +139,7 @@ This assignment should take 3-4 hours. If you have mobility limitations, perform
 
 **The best part of the submission was...**
 
-| ⭐ Reviewers | 💬 Comments |
+| ⭐ Reviewer | 💬 Comments |
 | :----------------- | :----------------------------------------------------------- |
 | **Maggie Dorfman** | it was so detailed. you really went the distance coming up with the questions that you were going to ask. making sure they were open, but also specific and not leading the interviewee towards the specific answers you wanted to hear |
 | **Yige Song**      | You take this assignment seriously. Well done on the choosing of problems, and the interview. Keep doing that my friend! |
@@ -147,7 +147,7 @@ This assignment should take 3-4 hours. If you have mobility limitations, perform
 
 **One thing the submission could do to improve is...**
 
-| ⭐ Reviewers | 💬 Comments |
+| ⭐ Reviewer | 💬 Comments |
 | :----------------- | :----------------------------------------------------------- |
 | **Maggie Dorfman** | like you said, just investing more in the interview as its happening rather than getting caught up in the prep work that you did |
 | **Yige Song**      | N/A                                                          |
