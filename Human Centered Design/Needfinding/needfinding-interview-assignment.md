@@ -120,7 +120,6 @@ This assignment should take 3-4 hours. If you have mobility limitations, perform
 
 > [<img align="left" src="https://github.com/arvindcheenu/interaction-design-notes/blob/main/images/transport-albumart.png?raw=true" width="24%" margin-top="-5px"/>](https://soundcloud.com/arvindcheenu/streetward-conversations-on-transportation) I​ was a little tensed when it came to conducting an interview (It is pretty evident in the audio). Thankfully, the cooperative participant helped me ease into the mood. I realised that as an interviewer, one has to listen and have trust in your interviewee to have a meaningful conversation. Moreover, I found that interviewees when faced with open ended questions are prone to have stream of consciousness thoughts which, though ultimately helpful, might mess up the sequence of questions planned in the interview guide. I realised that the interview guide was just that - a guide. 
 <br/>
-<br/>
 
 ---
 
