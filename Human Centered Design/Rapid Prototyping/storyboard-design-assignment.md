@@ -49,13 +49,16 @@ by Mike Davison, Community TA and UX Project Manager
 
 #### 3 Ideas, 2 Storyboards
 
-* **Vehicle Vandal Vision**. This is a mobile application that can be used to find and predict the degree of damage to any vehicle.
+* **Vehicle Vandal Vision**. This is a mobile application that can be used to find and predict the degree of damage to any vehicle. 
+  **Why the Idea?** a possible solution for some *problems with ownership* mentioned in interview
   1. **Can find damages to the vehicle** through advanced depth-mapped videography. Computer Vision and Image Recognition can pick up new damages apart from old ones at a glance. *Helps a user to justify damage coverage costs with the rental car owner to prevent over-coverage*.
   2. **Can predict the type and degree of damage** through Machine Learning and Computer Vision Techniques with an AR experience, *helping you to choose a good rental car in the first place*.
-* **Helmet Cam**. This is a 360˚ camera attached with a helmet that can record atmost 10 minutes of video footage. Has accompanying smartphone and smartwatch applications to help prevent any damage to you or your interests in case of an accident.
+* **Helmet Cam**. This is a 360˚ camera attached with a helmet that can record atmost 10 minutes of video footage. Has accompanying smartphone and smartwatch applications to help prevent any damage to you or your interests in case of an accident. 
+  **Why the Idea?** a possible solution for *"the bigger player is always one under scrutiny by law"* problem mentioned in interview
   1. **In case of a potential collision**, the *smart watch alerts to notify you before the collision* can happen through Machine Learning and Computer Vision. 
   2. **In case of a hit and run**, the smartphone *extracts the number plate* from computer vision while *automatically calling the police, medical helplines and sends your location, the video and the plate number to all emergency contacts* in case of low pulse and irresponsiveness a minute after fall detection. 
 * **Social Transit Network**. This is an application where people can share, plan and form new travel plans with people across the Internet.
+  **Why the Idea?** A solution based on the idea of *multimodality* discussed in the interview.
   1. **Predicting Traffic**. By anonymously crowdsourcing data on different travel methods on a particular route, using machine learning, arrival times and departure times can be accurately determined for each intermediate mode of transport thus *helping in the planning process.*
-  2. **Organising Trips**. By sharing your travel itenaries on the network, you will be matched with people across the internet, thus helping you *minimise the travel cost* by travelling with many.
+  2. **Planning and Organising Trips**. By sharing your travel itenaries on the network, you will be matched with people across the internet, thus helping you *minimise the travel cost* by travelling with many.
 

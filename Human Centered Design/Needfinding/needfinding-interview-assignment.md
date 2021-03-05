@@ -120,3 +120,34 @@ This assignment should take 3-4 hours. If you have mobility limitations, perform
 
 > [<img align="left" src="https://github.com/arvindcheenu/interaction-design-notes/blob/main/images/transport-albumart.png?raw=true" width="24%" margin-top="-5px"/>](https://soundcloud.com/arvindcheenu/streetward-conversations-on-transportation) I​ was a little tensed when it came to conducting an interview (It is pretty evident in the audio). Thankfully, the cooperative participant helped me ease into the mood. I realised that as an interviewer, one has to listen and have trust in your interviewee to have a meaningful conversation. Moreover, I found that interviewees when faced with open ended questions are prone to have stream of consciousness thoughts which, though ultimately helpful, might mess up the sequence of questions planned in the interview guide. I realised that the interview guide was just that - a guide. 
 
+
+
+---
+
+## 💬 Peer Review Comments
+
+#### Short Reflection Rubric
+
+**From your point of view, which of the things the learner says they will do differently next time do you think is most valuable/important?** 
+
+| **Maggie Dorfman** | being a better active listener (which i also struggled with) |
+| ------------------ | ------------------------------------------------------------ |
+| **Yige Song**      | N/A                                                          |
+| **Tommy**          | Understanding that the sequences of questions will change accordingly and that this was just a guide. I agree with this and I've had to shuffle my questions around and do follow-ups later on. It's better to go at it like a casual talk. |
+
+#### Overall Assignment Rubric
+
+**The best part of the submission was...**
+
+| **Maggie Dorfman** | it was so detailed. you really went the distance coming up with the questions that you were going to ask. making sure they were open, but also specific and not leading the interviewee towards the specific answers you wanted to hear |
+| ------------------ | ------------------------------------------------------------ |
+| **Yige Song**      | You take this assignment seriously. Well done on the choosing of problems, and the interview. Keep doing that my friend! |
+| **Tommy**          | Understanding that the sequences of questions will change accordingly and that this was just a guide. I agree with this and I've had to shuffle my questions around and do follow-ups later on. It's better to go at it like a casual talk. |
+
+**One thing the submission could do to improve is...**
+
+| **Maggie Dorfman** | like you said, just investing more in the interview as its happening rather than getting caught up in the prep work that you did |
+| ------------------ | ------------------------------------------------------------ |
+| **Yige Song**      | N/A                                                          |
+| **Tommy**          | Practice a few more interviews and do a breathing exercise at the start, it really helps. |
+
