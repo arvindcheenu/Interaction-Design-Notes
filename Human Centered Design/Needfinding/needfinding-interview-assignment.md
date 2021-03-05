@@ -133,7 +133,7 @@ This assignment should take 3-4 hours. If you have mobility limitations, perform
 | :----------------- | :----------------------------------------------------------- |
 | **Maggie Dorfman** | being a better active listener (which i also struggled with) |
 | **Yige Song**      | N/A                                                          |
-| **Tommy**          | Understanding that the sequences of questions will change accordingly and that this was just a guide. I agree with this and I've had to shuffle my questions around and do follow-ups later on. It's better to go at it like a casual talk. |
+| **Tommy**          | Understanding that the sequences of questions will change accordingly and that this was just a guide.<br/>I agree with this and I've had to shuffle my questions around and do follow-ups later on. It's better to go at it like a casual talk. |
 
 #### Overall Assignment Rubric
 
@@ -141,9 +141,9 @@ This assignment should take 3-4 hours. If you have mobility limitations, perform
 
 | ⭐ Reviewer | 💬 Comments |
 | :----------------- | :----------------------------------------------------------- |
-| **Maggie Dorfman** | it was so detailed. you really went the distance coming up with the questions that you were going to ask. making sure they were open, but also specific and not leading the interviewee towards the specific answers you wanted to hear |
-| **Yige Song**      | You take this assignment seriously. Well done on the choosing of problems, and the interview. Keep doing that my friend! |
-| **Tommy**          | Understanding that the sequences of questions will change accordingly and that this was just a guide. I agree with this and I've had to shuffle my questions around and do follow-ups later on. It's better to go at it like a casual talk. |
+| **Maggie Dorfman** | it was so detailed. you really went the distance coming up with the questions that you were going to ask.<br/>making sure they were open, but also specific and not leading the interviewee towards the specific answers you wanted to hear |
+| **Yige Song**      | You take this assignment seriously. Well done on the choosing of problems, and the interview.<br/>Keep doing that my friend! |
+| **Tommy**          | The added end questions were a nice touch to get a little more insight on how the person would handle the situation if they had the power. |
 
 **One thing the submission could do to improve is...**
 
