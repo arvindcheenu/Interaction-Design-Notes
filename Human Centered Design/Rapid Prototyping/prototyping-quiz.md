@@ -35,3 +35,27 @@
 - [ ] It is worse than paper prototyping because it can’t show the user interface
 
 - [x] It simulates the interactive behavior and machine functionality
+
+##### Question 4
+
+#### When creating a video prototype <u>Select all that apply.</u> 
+
+- [ ] You should spend a lot of time editing
+
+- [ ] You should start filming without planning
+
+- [x] You can use a phone camera
+
+- [x] You should try to use as much as possible the real context of use (people,location etc.)
+
+##### Question 5
+
+#### Check all true statements <u>Select all that apply.</u> 
+
+- [x] Parallel Prototyping yields more diverse designs
+
+- [ ] Serial prototyping is better than Parallel Prototyping since your prototype is more polished
+
+- [x] In early stages of the design process, you should rather use Parallel than Serial Prototyping
+
+- [ ] Serial Prototyping tends to yield better results that are better rated than that of Parallel Prototyping
