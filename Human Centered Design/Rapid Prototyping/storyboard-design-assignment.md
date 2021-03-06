@@ -62,3 +62,40 @@ by Mike Davison, Community TA and UX Project Manager
   1. **Predicting Traffic**. By anonymously crowdsourcing data on different travel methods on a particular route, using machine learning, arrival times and departure times can be accurately determined for each intermediate mode of transport thus *helping in the planning process.*
   2. **Planning and Organising Trips**. By sharing your travel itenaries on the network, you will be matched with people across the internet, thus helping you *minimise the travel cost* by travelling with many.
 
+### Storyboard Sketches
+ 
+#### Vehicle Vandal Vision: Damage Prediction
+<p align="center">
+<img align="center" src="https://github.com/arvindcheenu/interaction-design-notes/blob/main/images/storyboard-1-1.jpeg?raw=true" width="80%"><br><br>
+<b>Can predict the degree of damage or degradation to the vehicle by Computer Vision and Image Recognition.</b>
+</p>
+
+#### Vehicle Vandal Vision: Damage Tracking and Recording
+<p align="center">
+<img align="center" src="https://github.com/arvindcheenu/interaction-design-notes/blob/main/images/storyboard-1-2.jpeg?raw=true" width="80%"><br><br>
+<b>Can track, record and find existing and new damages.</b>
+</p>
+
+#### Helmet Cam: Collision Avoidance
+<p align="center">
+<img align="center" src="https://github.com/arvindcheenu/interaction-design-notes/blob/main/images/storyboard-2-1.jpeg?raw=true" width="80%"><br><br>
+<b>Using Computer Vision in realtime, through your smartwatch, the Helmet Cam can help you avoid collisions.</b>
+</p>
+
+#### Helmet Cam: Number Plate Recognition and Emergency Features
+<p align="center">
+<img align="center" src="https://github.com/arvindcheenu/interaction-design-notes/blob/main/images/storyboard-2-2.jpeg?raw=true" width="80%"><br><br>
+<b>In case of fall detection and pulse reduction, automatically contacts police, ambulance and emergency contacts by sharing the current location and vital status. Automatically recognises number plates through computer vision from recorded footage which is very useful for handling hit-and-run cases.</b>
+</p>
+
+#### Social Transit Network: Traffic Prediction
+<p align="center">
+<img align="center" src="https://github.com/arvindcheenu/interaction-design-notes/blob/main/images/storyboard-3-1.jpeg?raw=true" width="80%"><br><br>
+<b>By crowdsourcing Route-specific user data anonymously everyday, can help discover patterns through machine learning to predict traffic on a particular route with astonishing accuracy.</b>
+</p>
+
+#### Social Transit Network: Organising Trips
+<p align="center">
+<img align="center" src="https://github.com/arvindcheenu/interaction-design-notes/blob/main/images/storyboard-3-2.jpeg?raw=true" width="80%"><br><br>
+<b>Connects people across internet travelling to the same destination as you while providing integrations with popular ride-sharing and rental platforms helping you socialise and build new connections while travelling and having fun at a reduced cost.</b>
+</p>
