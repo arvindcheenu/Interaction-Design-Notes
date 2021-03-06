@@ -45,14 +45,14 @@ by Mike Davison, Community TA and UX Project Manager
 
 ### My Submission
 
-## Arvind's Storyboards for Transportation
+## Storyboards for Transportation
 
 #### 3 Ideas, 2 Storyboards
 
 * **Vehicle Vandal Vision**. This is a mobile application that can be used to find and predict the degree of damage to any vehicle. 
   **Why the Idea?** a possible solution for some *problems with ownership* mentioned in interview
   1. **Can find damages to the vehicle** through advanced depth-mapped videography. Computer Vision and Image Recognition can pick up new damages apart from old ones at a glance. *Helps a user to justify damage coverage costs with the rental car owner to prevent over-coverage*.
-  2. **Can predict the type and degree of damage** through Machine Learning and Computer Vision Techniques with an AR experience, *helping you to choose a good used car in the first place*.
+  2. **Can predict the type and degree of damage** through Machine Learning and Computer Vision Techniques with an AR experience, *helping you to choose a good rental car in the first place*.
 * **Helmet Cam**. This is a 360˚ camera attached with a helmet that can record atmost 10 minutes of video footage. Has accompanying smartphone and smartwatch applications to help prevent any damage to you or your interests in case of an accident. 
   **Why the Idea?** a possible solution for *"the bigger player is always one under scrutiny by law"* problem mentioned in interview
   1. **In case of a potential collision**, the *smart watch alerts to notify you before the collision* can happen through Machine Learning and Computer Vision. 
