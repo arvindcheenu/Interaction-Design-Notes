@@ -70,8 +70,6 @@ by Mike Davison, Community TA and UX Project Manager
 <b>Can predict the degree of damage or degradation to the vehicle by Computer Vision and Image Recognition.</b>
 </p>
 
-#### Vehicle Vandal Vision: Damage Tracking and Recording
-
 <p align="center">
     <b>Vehicle Vandal Vision: Damage Tracking and Recording<b><br><br>
 <img align="center" src="https://github.com/arvindcheenu/interaction-design-notes/blob/main/images/storyboard-1-2.jpeg?raw=true" width="80%"><br><br>
