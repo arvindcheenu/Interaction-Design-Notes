@@ -92,16 +92,14 @@ by Mike Davison, Community TA and UX Project Manager
 <b>In case of fall detection and pulse reduction, automatically contacts police, ambulance and emergency contacts by sharing the current location and vital status. Automatically recognises number plates through computer vision from recorded footage which is very useful for handling hit-and-run cases.</b>
 </p>
 
-#### Social Transit Network: Traffic Prediction
-
 <p align="center">
+  <b>Social Transit Network: Traffic Prediction<b><br>
 <img align="center" src="https://github.com/arvindcheenu/interaction-design-notes/blob/main/images/storyboard-3-1.jpeg?raw=true" width="80%"><br><br>
 <b>By crowdsourcing Route-specific user data anonymously everyday, can help discover patterns through machine learning to predict traffic on a particular route with astonishing accuracy.</b>
 </p>
 
-#### Social Transit Network: Organising Trips
-
 <p align="center">
+ <b>Social Transit Network: Organising Trips<b><br>
 <img align="center" src="https://github.com/arvindcheenu/interaction-design-notes/blob/main/images/storyboard-3-2.jpeg?raw=true" width="80%"><br><br>
 <b>Connects people across internet travelling to the same destination as you while providing integrations with popular ride-sharing and rental platforms helping you socialise and build new connections while travelling and having fun at a reduced cost.</b>
 </p>
