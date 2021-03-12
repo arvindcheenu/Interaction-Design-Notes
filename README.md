@@ -1,5 +1,5 @@
 ## Interaction Design Notes
-Contains my Notes and Coursework on University of California, San Diego's **Interaction Design Specialisation** in Coursera. 
+Contains my Notes, Assignments and other Coursework for University of California, San Diego's **Interaction Design Specialisation** in Coursera along with some additional materials (books and papers) for reference. 
 
 ### 🙏 Acknowledgements
 
